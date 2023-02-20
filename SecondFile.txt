@@ -2,4 +2,5 @@ This is my second file to see another option of the add command
   
 Again checking the diff command - now to see the difference in files in the working area
 Added new line to see the stack command. also deleted 2nd line
+Again making change to see the commit after stash command
  
